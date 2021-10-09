@@ -1,5 +1,5 @@
 {
-  "name": "@freakycoder/react-use-state-with-callbak",
+  "name": "@freakycoder/react-use-state-with-callback",
   "version": "0.1.0",
   "description": "Make the useState hook with a callback for React and React Native",
   "main": "./build/dist/useStateWithCallback.js",
