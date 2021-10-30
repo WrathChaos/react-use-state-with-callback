@@ -27,7 +27,7 @@ npm i @freakycoder/react-use-state-with-callback
 ## Import
 
 ```ts
-import useStateWithCallback from "react-use-state-with-callback";
+import useStateWithCallback from "@freakycoder/react-use-state-with-callback";
 ```
 
 ## Fundamental Usage
